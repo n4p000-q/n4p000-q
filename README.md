@@ -11,6 +11,9 @@ Hello, I'm Napo Qheku 👋<br>🔐 Aspiring Cybersecurity Specialist | 💻 Soft
 #CyberSecurity Stats:
 <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3501392" style='border:none;'></iframe>
 
+![TryHackMe Badge](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3501392" style='border:none;)
+
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=n4p000-q&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=n4p000-q&theme=dark&hide_border=false)<br/>
