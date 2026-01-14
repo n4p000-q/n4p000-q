@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, I'm Napo Qheku 👋<br>🔐 Aspiring Cybersecurity Specialist | 💻 Software Developer | 📊 Future Data Scientist<br><br>🔍 Passionate about exploring the intersection of software development, cybersecurity, and data science<br><br>🎯 Goal: To make an impact by solving real-world problems through innovative tech solutions.<br><br>💡 Curiosity drives me to constantly explore new technologies and experiment with cutting-edge tools.<br><br>📫 Let's connect!
+Hello, I'm Napo Qheku 👋<br>🔐 Aspiring Cybersecurity Specialist | 💻 Software Developer |<br><br>🔍 Passionate about exploring the intersection of software development, cybersecurity, and data science<br><br>🎯 Goal: To make an impact by solving real-world problems through innovative tech solutions.<br><br>💡 Curiosity drives me to constantly explore new technologies and experiment with cutting-edge tools.<br><br>📫 Let's connect!
 
 
 ## 🌐 Socials:
