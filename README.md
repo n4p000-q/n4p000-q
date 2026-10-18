@@ -18,5 +18,3 @@ Hello, I'm Napo Qheku 👋<br>🔐 Aspiring Cybersecurity Specialist | 💻 Soft
 
 ---
 [![](https://visitcount.itsvg.in/api?id=n4p000-q&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
